@@ -1,0 +1,11 @@
+# working directory (where tophat, cufflinks, cuffmerge, and cuffdiff will output files
+/media/ansariroot/Data/AnnaK/2015-11_Test/
+
+# genome name and its directory (where .fa and bwt2 indexes are)
+/media/ansariroot/Data/mm10/Mus_musculus_ZFATF/mm10_ZFATF
+
+# annotation file (.gtf file) and its directory
+/media/ansariroot/Data/mm10/Mus_musculus_ZFATF/annotation/genes.gtf
+
+# fastq directory
+./RNASeq_2015_08/fastq_chosen/
